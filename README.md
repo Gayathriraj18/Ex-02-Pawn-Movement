@@ -35,6 +35,8 @@ To create and destroy the coin:
 
 
 
+
+
 # After destroying all the coins, the score and health bars get updated:
 
 ![gp2 2](https://github.com/Gayathriraj18/Ex-02-Pawn-Movement/assets/94154854/ef8d3d5c-6bb6-4c6a-ae00-b5a04abe9f50)
@@ -84,13 +86,17 @@ To redirect to levels:
 
 # Play Button :
 
+![gp2 3](https://github.com/Gayathriraj18/Ex-02-Pawn-Movement/assets/94154854/9c31da7e-3b66-4333-bbfb-078355464cf7)
 
 
 # Quit Button :
 
 
 
+
 # Back Button :
+
+![gp2 5](https://github.com/Gayathriraj18/Ex-02-Pawn-Movement/assets/94154854/7b20270c-4a85-4f1f-9460-136cd05f2602)
 
 
 # Result :
