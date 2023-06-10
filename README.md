@@ -33,8 +33,8 @@ To create and destroy the coin:
 
 # Starting position of the player:
 
-![Uploading gp2.1.png…]()
 
+![output](Screenshot%202023-06-10%20181622.png)
 
 # After destroying all the coins, the score and health bars get updated:
 
@@ -90,7 +90,7 @@ To redirect to levels:
 
 # Quit Button :
 
-
+![gp2.4](Screenshot%202023-06-10%20182028.png)
 
 
 # Back Button :
