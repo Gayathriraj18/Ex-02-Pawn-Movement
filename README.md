@@ -33,8 +33,7 @@ To create and destroy the coin:
 
 # Starting position of the player:
 
-
-
+![Uploading gp2.1.png…]()
 
 
 # After destroying all the coins, the score and health bars get updated:
